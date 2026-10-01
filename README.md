@@ -1,4 +1,4 @@
-# altaqwaa.nix
+# Materialious.nix
 An unofficial method to install Materialious on NixOS using flake.nix
 
 ## on flake.nix file
